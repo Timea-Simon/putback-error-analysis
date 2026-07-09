@@ -57,5 +57,5 @@ The SQL script contains the foundational architecture used to drive weekly quali
 ## Files Included
 * **`putback_error_analysis.sql`**
   * Includes Database Setup, Data Quality/QA checks, Department/Shift business queries, and the Weekly Top 10 Offender scripts.
-* **`putbeck_error_analysis_dashboard.pbix`**
+* **`putback_error_analysis_dashboard.pbix`**
   * The Power BI Dashboard file built to present the executive overview, featuring the KPI summary cards, department donut charts, shift column charts, and the 16-week historical trendline.
