@@ -12,7 +12,7 @@ I developed this project to analyze historical quality logs, identify which depa
 
 *Real-World Impact:* While the project documentation and dashboard use simulated data for display purposes, the actual process I implemented on the floor led to measurable improvements. In my original role, I executed this workflow manually using Excel and Pivot Tables. By extracting the data weekly, I generated "Top 10 Offender" lists for each shift and department, allowing Area Managers to conduct precise coaching at the start of their shifts. I collaborated with Pick, Stow, and ICQA teams to create department-specific training videos focused on preventing common Putback Errors. I defined the operational scenarios and key error points to be addressed, while the final video editing was completed with support from the team.
 
-This continuous improvement process contributed to an approximately 30% reduction in Putback Errors during the improvement period.
+This continuous improvement process contributed to an approximately 25% reduction in Putback Errors during the improvement period.
 
 ---
 
